@@ -20,8 +20,8 @@
 		2148F99F1A9F1E300046CEE9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2148F99E1A9F1E300046CEE9 /* UIKit.framework */; };
 		2148F9A11A9F1E4C0046CEE9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2148F9A01A9F1E4C0046CEE9 /* CoreGraphics.framework */; };
 		21E05D8D1AA009C6007EC826 /* invite2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21E05D8B1AA009C6007EC826 /* invite2.jpg */; };
-		21E05D8E1AA009C6007EC826 /* camra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21E05D8C1AA009C6007EC826 /* camra.jpg */; };
 		21E05D941AA01335007EC826 /* GeometryGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 21E05D931AA01335007EC826 /* GeometryGradientLayer.m */; };
+		421014551AA60A1D003207A5 /* camra2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 421014541AA60A1D003207A5 /* camra2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,9 +58,9 @@
 		2148F99E1A9F1E300046CEE9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		2148F9A01A9F1E4C0046CEE9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		21E05D8B1AA009C6007EC826 /* invite2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = invite2.jpg; sourceTree = "<group>"; };
-		21E05D8C1AA009C6007EC826 /* camra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = camra.jpg; sourceTree = "<group>"; };
 		21E05D921AA01335007EC826 /* GeometryGradientLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeometryGradientLayer.h; sourceTree = "<group>"; };
 		21E05D931AA01335007EC826 /* GeometryGradientLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeometryGradientLayer.m; sourceTree = "<group>"; };
+		421014541AA60A1D003207A5 /* camra2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = camra2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,8 +121,8 @@
 		2148F96C1A9F1C4E0046CEE9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				421014541AA60A1D003207A5 /* camra2.jpg */,
 				21E05D8B1AA009C6007EC826 /* invite2.jpg */,
-				21E05D8C1AA009C6007EC826 /* camra.jpg */,
 				2148F96D1A9F1C4E0046CEE9 /* Info.plist */,
 				2148F96E1A9F1C4E0046CEE9 /* main.m */,
 			);
@@ -254,9 +254,9 @@
 			files = (
 				2148F9781A9F1C4E0046CEE9 /* Main.storyboard in Resources */,
 				2148F97D1A9F1C4E0046CEE9 /* LaunchScreen.xib in Resources */,
-				21E05D8E1AA009C6007EC826 /* camra.jpg in Resources */,
 				2148F97A1A9F1C4E0046CEE9 /* Images.xcassets in Resources */,
 				21E05D8D1AA009C6007EC826 /* invite2.jpg in Resources */,
+				421014551AA60A1D003207A5 /* camra2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

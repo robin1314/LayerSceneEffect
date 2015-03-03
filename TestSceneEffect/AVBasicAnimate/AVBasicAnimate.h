@@ -3,7 +3,7 @@
 //  LTStackView
 //
 //  Created by robin on 15/1/14.
-//  Copyright (c) 2015年 ltebean. All rights reserved.
+//  Copyright iMMcque (c) 2015年 ltebean. All rights reserved.
 //
 #import <Foundation/Foundation.h>
 #import <QuartzCore/QuartzCore.h>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7CB7D2DE-8976-401C-8B52-D23D3542C5E9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestSceneEffect</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FE203E8B2F3B37A393657C07EF8DF7703E3FDCCD</key>
+		<string>https://github.com/robin1314/LayerSceneEffect.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestSceneEffect.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE203E8B2F3B37A393657C07EF8DF7703E3FDCCD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/robin1314/LayerSceneEffect.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE203E8B2F3B37A393657C07EF8DF7703E3FDCCD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE203E8B2F3B37A393657C07EF8DF7703E3FDCCD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestSceneEffect</string>
+		</dict>
+	</array>
+</dict>
+</plist>

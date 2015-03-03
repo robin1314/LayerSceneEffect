@@ -3,7 +3,7 @@
 //  TestSceneEffect
 //
 //  Created by robin on 15/2/26.
-//  Copyright (c) 2015年 robin. All rights reserved.
+//  Copyright iMMcque (c) 2015年 robin. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -46,7 +46,7 @@
     
     currentLayer.frame = homeLayer.bounds;
     
-    currentLayer.contents = (id)[UIImage imageNamed:@"camra.jpg"].CGImage;
+    currentLayer.contents = (id)[UIImage imageNamed:@"camra2.jpg"].CGImage;
     
     [homeLayer addSublayer: currentLayer];
     
@@ -82,7 +82,7 @@
     
     currentLayer.frame = homeLayer.bounds;
     
-    currentLayer.contents = (id)[UIImage imageNamed:@"camra.jpg"].CGImage;
+    currentLayer.contents = (id)[UIImage imageNamed:@"camra2.jpg"].CGImage;
     
     [homeLayer addSublayer: currentLayer];
     
@@ -225,7 +225,7 @@
     
     currentLayer.frame = homeLayer.bounds;
     
-    currentLayer.contents = (id)[UIImage imageNamed:@"camra.jpg"].CGImage;
+    currentLayer.contents = (id)[UIImage imageNamed:@"camra2.jpg"].CGImage;
     
     [homeLayer addSublayer: currentLayer];
     
@@ -422,7 +422,7 @@
     
     dispatch_async_main_after(2, ^{
 
-        CABasicAnimation *moveAni = [AVBasicRouteAnimate moveXYCenterTo:1.6 withBeginTime:0 toValue: nextPosition];
+        CABasicAnimation *moveAni = [AVBasicRouteAnimate moveXYCenterTo:2.2 withBeginTime:0 toValue: nextPosition];
         
         [geometryLayer1 addAnimation: moveAni forKey:@"moveAni"];
         
