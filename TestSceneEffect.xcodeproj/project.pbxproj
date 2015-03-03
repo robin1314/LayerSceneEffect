@@ -14,6 +14,14 @@
 		2148F97A1A9F1C4E0046CEE9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2148F9791A9F1C4E0046CEE9 /* Images.xcassets */; };
 		2148F97D1A9F1C4E0046CEE9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2148F97B1A9F1C4E0046CEE9 /* LaunchScreen.xib */; };
 		2148F9891A9F1C4E0046CEE9 /* TestSceneEffectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2148F9881A9F1C4E0046CEE9 /* TestSceneEffectTests.m */; };
+		2148F9991A9F1CBD0046CEE9 /* AVBasicBottomAnimate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2148F9961A9F1CBD0046CEE9 /* AVBasicBottomAnimate.m */; };
+		2148F99A1A9F1CBD0046CEE9 /* AVBasicRouteAnimate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2148F9981A9F1CBD0046CEE9 /* AVBasicRouteAnimate.m */; };
+		2148F99D1A9F1E1E0046CEE9 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2148F99C1A9F1E1E0046CEE9 /* QuartzCore.framework */; };
+		2148F99F1A9F1E300046CEE9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2148F99E1A9F1E300046CEE9 /* UIKit.framework */; };
+		2148F9A11A9F1E4C0046CEE9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2148F9A01A9F1E4C0046CEE9 /* CoreGraphics.framework */; };
+		21E05D8D1AA009C6007EC826 /* invite2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21E05D8B1AA009C6007EC826 /* invite2.jpg */; };
+		21E05D8E1AA009C6007EC826 /* camra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21E05D8C1AA009C6007EC826 /* camra.jpg */; };
+		21E05D941AA01335007EC826 /* GeometryGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 21E05D931AA01335007EC826 /* GeometryGradientLayer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +48,19 @@
 		2148F9821A9F1C4E0046CEE9 /* TestSceneEffectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestSceneEffectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2148F9871A9F1C4E0046CEE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2148F9881A9F1C4E0046CEE9 /* TestSceneEffectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestSceneEffectTests.m; sourceTree = "<group>"; };
+		2148F9941A9F1CBD0046CEE9 /* AVBasicAnimate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AVBasicAnimate.h; sourceTree = "<group>"; };
+		2148F9951A9F1CBD0046CEE9 /* AVBasicBottomAnimate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AVBasicBottomAnimate.h; sourceTree = "<group>"; };
+		2148F9961A9F1CBD0046CEE9 /* AVBasicBottomAnimate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AVBasicBottomAnimate.m; sourceTree = "<group>"; };
+		2148F9971A9F1CBD0046CEE9 /* AVBasicRouteAnimate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AVBasicRouteAnimate.h; sourceTree = "<group>"; };
+		2148F9981A9F1CBD0046CEE9 /* AVBasicRouteAnimate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AVBasicRouteAnimate.m; sourceTree = "<group>"; };
+		2148F99B1A9F1D780046CEE9 /* testConstant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testConstant.h; sourceTree = "<group>"; };
+		2148F99C1A9F1E1E0046CEE9 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		2148F99E1A9F1E300046CEE9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2148F9A01A9F1E4C0046CEE9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		21E05D8B1AA009C6007EC826 /* invite2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = invite2.jpg; sourceTree = "<group>"; };
+		21E05D8C1AA009C6007EC826 /* camra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = camra.jpg; sourceTree = "<group>"; };
+		21E05D921AA01335007EC826 /* GeometryGradientLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeometryGradientLayer.h; sourceTree = "<group>"; };
+		21E05D931AA01335007EC826 /* GeometryGradientLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeometryGradientLayer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +68,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2148F9A11A9F1E4C0046CEE9 /* CoreGraphics.framework in Frameworks */,
+				2148F99F1A9F1E300046CEE9 /* UIKit.framework in Frameworks */,
+				2148F99D1A9F1E1E0046CEE9 /* QuartzCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +105,7 @@
 		2148F96B1A9F1C4E0046CEE9 /* TestSceneEffect */ = {
 			isa = PBXGroup;
 			children = (
+				2148F9921A9F1C630046CEE9 /* AVLayer */,
 				2148F9701A9F1C4E0046CEE9 /* AppDelegate.h */,
 				2148F9711A9F1C4E0046CEE9 /* AppDelegate.m */,
 				2148F9731A9F1C4E0046CEE9 /* ViewController.h */,
@@ -96,6 +121,8 @@
 		2148F96C1A9F1C4E0046CEE9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				21E05D8B1AA009C6007EC826 /* invite2.jpg */,
+				21E05D8C1AA009C6007EC826 /* camra.jpg */,
 				2148F96D1A9F1C4E0046CEE9 /* Info.plist */,
 				2148F96E1A9F1C4E0046CEE9 /* main.m */,
 			);
@@ -105,6 +132,9 @@
 		2148F9851A9F1C4E0046CEE9 /* TestSceneEffectTests */ = {
 			isa = PBXGroup;
 			children = (
+				2148F9A01A9F1E4C0046CEE9 /* CoreGraphics.framework */,
+				2148F99E1A9F1E300046CEE9 /* UIKit.framework */,
+				2148F99C1A9F1E1E0046CEE9 /* QuartzCore.framework */,
 				2148F9881A9F1C4E0046CEE9 /* TestSceneEffectTests.m */,
 				2148F9861A9F1C4E0046CEE9 /* Supporting Files */,
 			);
@@ -117,6 +147,29 @@
 				2148F9871A9F1C4E0046CEE9 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2148F9921A9F1C630046CEE9 /* AVLayer */ = {
+			isa = PBXGroup;
+			children = (
+				2148F9931A9F1CBD0046CEE9 /* AVBasicAnimate */,
+				2148F99B1A9F1D780046CEE9 /* testConstant.h */,
+				21E05D921AA01335007EC826 /* GeometryGradientLayer.h */,
+				21E05D931AA01335007EC826 /* GeometryGradientLayer.m */,
+			);
+			name = AVLayer;
+			sourceTree = "<group>";
+		};
+		2148F9931A9F1CBD0046CEE9 /* AVBasicAnimate */ = {
+			isa = PBXGroup;
+			children = (
+				2148F9941A9F1CBD0046CEE9 /* AVBasicAnimate.h */,
+				2148F9951A9F1CBD0046CEE9 /* AVBasicBottomAnimate.h */,
+				2148F9961A9F1CBD0046CEE9 /* AVBasicBottomAnimate.m */,
+				2148F9971A9F1CBD0046CEE9 /* AVBasicRouteAnimate.h */,
+				2148F9981A9F1CBD0046CEE9 /* AVBasicRouteAnimate.m */,
+			);
+			path = AVBasicAnimate;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -201,7 +254,9 @@
 			files = (
 				2148F9781A9F1C4E0046CEE9 /* Main.storyboard in Resources */,
 				2148F97D1A9F1C4E0046CEE9 /* LaunchScreen.xib in Resources */,
+				21E05D8E1AA009C6007EC826 /* camra.jpg in Resources */,
 				2148F97A1A9F1C4E0046CEE9 /* Images.xcassets in Resources */,
+				21E05D8D1AA009C6007EC826 /* invite2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,8 +274,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2148F99A1A9F1CBD0046CEE9 /* AVBasicRouteAnimate.m in Sources */,
 				2148F9751A9F1C4E0046CEE9 /* ViewController.m in Sources */,
 				2148F9721A9F1C4E0046CEE9 /* AppDelegate.m in Sources */,
+				21E05D941AA01335007EC826 /* GeometryGradientLayer.m in Sources */,
+				2148F9991A9F1CBD0046CEE9 /* AVBasicBottomAnimate.m in Sources */,
 				2148F96F1A9F1C4E0046CEE9 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -414,6 +472,7 @@
 				2148F98E1A9F1C4E0046CEE9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2148F98F1A9F1C4E0046CEE9 /* Build configuration list for PBXNativeTarget "TestSceneEffectTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +481,7 @@
 				2148F9911A9F1C4E0046CEE9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
